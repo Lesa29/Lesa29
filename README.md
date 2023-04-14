@@ -1,4 +1,4 @@
-***<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Suraj Singh </h1>***
+***<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Lesa Ashraf </h1>***
 
 
 <p align="center">
@@ -8,18 +8,18 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 You can check out me on [Click](https://suraj-s13.github.io/)
+- 👨‍💻 You can check out me on [Click](https://Lesa29.github.io/)
 
-- 📫 How to reach me **13surajsingh01@gmail.com**
+- 📫 How to reach me **lesaashraf29@gmail.com**
 <br />
 
 <h3 align="left">Connect me:</h3>
 <p align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/suraj-s13)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/suraj-singh-71a373217/)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/_suraj_ss_?igshid=YmMyMTA2M2Y=)
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Surajs13s?t=xFGY1Ybzie3pVK8IXLSpSg&s=09)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/Lesa29)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lesa-ashraf-b15ba61ba)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lesa_ashraf/)
+
  <br />
   
 <h3 align="left">Coding Platform:</h3>
