@@ -28,19 +28,7 @@
 <br /><br />
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,nodejs,linux,mysql,docker,gcp,react,git,gitlab&perline=)](https://skillicons.dev)
-<br /><br />
 
- <p align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
- <i><b>Git Activeness</b></i></p>
- 
- <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=suraj-s13&theme=github_dark&cache_seconds=30&hide_border=true"/>&nbsp;&nbsp;&nbsp;
-  <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-s13&theme=github_dark&cache_seconds=30&hide_border=true"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suraj-s13&theme=github_dark"/>
-</p>
- 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj-s13&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=suraj-s13&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br> -->
